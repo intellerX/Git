@@ -12,7 +12,15 @@ I have good contributions, and skills such as:
 <br />
 
 
+## Last Projects
+# Mobile List App - Android - Ionic
+![App](https://user-images.githubusercontent.com/44149597/232350287-f6027506-eca7-4bf1-9247-638901cddda4.gif)
+# Web Platform - React
+![BioSec](https://user-images.githubusercontent.com/44149597/232350376-ecc12b93-411e-46af-b3a0-6f066cb92c33.gif)
+# kindergarten educational Web platform - Angular
 
+# Fire Department Web platform - React
+![Bomber](https://user-images.githubusercontent.com/44149597/232350456-a550fdd1-efa7-4832-9e78-6b2c56c7d82a.gif)
 
 ---
 

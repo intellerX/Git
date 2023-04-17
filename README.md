@@ -15,7 +15,7 @@ I have good contributions, and skills such as:
 ![Altux](https://user-images.githubusercontent.com/44149597/232352444-fdedd19e-9296-4da1-8e2b-5f5b1a3cd7a9.gif)
 ## Last Projects
 # Mobile List App - Android - Ionic
-![App](https://user-images.githubusercontent.com/44149597/232350287-f6027506-eca7-4bf1-9247-638901cddda4.gif)![App](https://user-images.githubusercontent.com/44149597/232350287-f6027506-eca7-4bf1-9247-638901cddda4.gif)
+![App](https://user-images.githubusercontent.com/44149597/232350287-f6027506-eca7-4bf1-9247-638901cddda4.gif)
 # Web Platform - React
 ![BioSec](https://user-images.githubusercontent.com/44149597/232350376-ecc12b93-411e-46af-b3a0-6f066cb92c33.gif)
 # Kindergarten educational Web platform - Angular

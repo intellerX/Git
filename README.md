@@ -1,7 +1,7 @@
-### Hi, I'm Andres Mejia – Sr Backend Developer 🤘
+### Hi, I'm Andres Mejia – Sr Software Developer 🤘
 
 
-## I'm a Backend / FullStack Developer!!
+## I'm a FullStack Developer!!
 
 I have good contributions, and skills such as:
 ●.Net Core ● Angular +10 ● Azure ● SQL
